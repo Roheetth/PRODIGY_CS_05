@@ -1,2 +1,3 @@
-# PRODIGY_CS_05
-""" NetworkPacketAnalyzer is a Python tool for capturing, analyzing, and visualizing network packets. It enables real-time traffic monitoring, packet inspection, and threat detection. Supporting various protocols, it offers detailed
+# NetworkPacketAnalyzer
+
+NetworkPacketAnalyzer is a powerful Python tool leveraging the `scapy` library to capture, analyze, and visualize network packets. It facilitates real-time monitoring of network traffic, in-depth packet inspection, and the detection of potential security threats. The tool supports a variety of network protocols and provides comprehensive reports on packet data, making it an invaluable resource for network administrators and security professionals. With NetworkPacketAnalyzer, users can gain critical insights into network activity, ensuring robust network security and efficient traffic management.
